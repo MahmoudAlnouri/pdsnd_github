@@ -21,3 +21,11 @@ Second Update of Readme file
 
 
 Thrid requested updated of the Readme file, this change is the final one in the second section of the requirements as stated in steps C, D and E
+
+=--------------
+This file contains basic information about the Python Project
+
+More changes to as requested in 3.B
+
+
+Additional changes to check differences
