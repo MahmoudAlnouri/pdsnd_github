@@ -15,3 +15,19 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+First Update of Readme file
+
+Second Update of Readme file
+
+
+Thrid requested updated of the Readme file, this change is the final one in the second section of the requirements as stated in steps C, D and E
+
+=--------------
+This file contains basic information about the Python Project
+
+More changes to as requested in 3.B
+
+
+Additional changes to check differences
+
+This file should be kept up to date
