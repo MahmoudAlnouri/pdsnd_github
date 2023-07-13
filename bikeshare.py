@@ -137,6 +137,8 @@ def station_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+    #This line is slowing down the program, must be checked
+
 
 def trip_duration_stats(df):
     """Displays statistics on the total and average trip duration."""
