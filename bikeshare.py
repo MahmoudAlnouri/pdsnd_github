@@ -164,6 +164,8 @@ def user_stats(df,city):
     print('\nCalculating User Stats...\n')
     start_time = time.time()
 
+    """Printing the results of calculations"""
+
     # Display counts of user types
     print('User Type Stats:')
     print(df['User Type'].value_counts())
