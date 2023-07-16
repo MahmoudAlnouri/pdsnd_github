@@ -1,33 +1,28 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+July 13, 2023 is the creation date of this README file.
+
 
 ### Project Title
-Replace the Project Title
+Basic Data Exploration with pandas library in Python on Bikeshare Data in three American cities
 
 ### Description
-Describe what your project is about and what it does
+This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as the most popular days, time or most common stations for starting and ending of trips
+
+The purpose of the project is to help users make decisions about bikes distributions and how to properly provide timely service to customers so they always find bikes in the right locations and the right timeslots to enhance customer satisfaction and increase bike utilization and revenues.
+
+### How to use
+You can run the .py file in any code editor, I used VS CODE and Panda Library with Anaconda. You could use similar products or others as you wish
+
+### Possible bugs/issues
+Make sure to have loaded the library and data so the program can produce the wanted output
 
 ### Files used
-Include the files used
+- bikeshare.py (This is the python scripts to produce several summary statistics and provide insight to users)
+- 3 Files containing the Data in CSV format for the cities of Chicago, Washington DC and New York CIty. 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-First Update of Readme file
-
-Second Update of Readme file
-
-
-Thrid requested updated of the Readme file, this change is the final one in the second section of the requirements as stated in steps C, D and E
-
-=--------------
-This file contains basic information about the Python Project
-
-More changes to as requested in 3.B
-
-
-Additional changes to check differences
-
-This file should be kept up to date
+I used many useful resources during this project
+- Udacity's Data Science with Python Programming
+- Woolbridge Econometrics book, Wiley
